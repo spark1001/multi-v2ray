@@ -131,7 +131,7 @@ systemctl disable firewalld.service
 查看 [Changelog](https://github.com/Jrohy/multi-v2ray/blob/master/Changelog.md)
 
 ## 建议
-安装完v2ray后强烈建议开启BBR等加速: [Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed)  
+安装完v2ray后强烈建议开启BBR等加速: [Linux-NetSpeed](https://github.com/spark1001/Linux-NetSpeed)  
 使用Trojan和VLESS协议建议自行安装个nginx, 能让v2ray顺利Fallback到默认的80端口
 
 ## 依赖
